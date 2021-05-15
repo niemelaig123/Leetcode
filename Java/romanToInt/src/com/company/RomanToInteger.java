@@ -3,7 +3,7 @@ package com.company;
 import java.util.Map;
 
 public class RomanToInteger {
-    
+
     private static final Map<Character, Integer> ROMAN_CHARACTERS = Map.of(
             'I', 1,
             'V', 5,
