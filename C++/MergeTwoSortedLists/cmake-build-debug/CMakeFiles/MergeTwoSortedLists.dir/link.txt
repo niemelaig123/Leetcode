@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/MergeTwoSortedLists.dir/main.cpp.o -o MergeTwoSortedLists.exe -Wl,--out-implib,libMergeTwoSortedLists.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

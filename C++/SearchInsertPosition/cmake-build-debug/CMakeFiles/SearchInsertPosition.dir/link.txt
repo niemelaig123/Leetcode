@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/SearchInsertPosition.dir/main.cpp.o  -o SearchInsertPosition.exe -Wl,--out-implib,libSearchInsertPosition.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
